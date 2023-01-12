@@ -29,7 +29,9 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awes
 
 ## Email
 
+- [Disroot](https://disroot.org) - An open-source, end-to-end encrypted anonymous email service.
 - [Proton Mail](https://proton.me/mail) - An open-source, end-to-end encrypted anonymous email service.
+- [Tutanota](https://tutanota.com) - Secure, green and ad-free. Email to feel good about.
 
 ## Notes and Documents
 
