@@ -55,6 +55,6 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awes
 - [Awesome Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
 - [Awesome Privacy](https://github.com/lissy93/awesome-privacy) - A curated list of privacy-respecting software and services.
 
-## Contributing
+## [Contributing](https://github.com/PnPH/awesome-zero-knowledge/blob/main/contributing.md)
 
-TBD!
+Your contributions are always welcome!
