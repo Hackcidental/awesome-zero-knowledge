@@ -4,19 +4,24 @@
 
 A curated list of services and softwares that uses or are based on zero knowledge technology.
 
-Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awesome-security](https://github.com/sbilly/awesome-security).
+Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy) and [awesome-security](https://github.com/sbilly/awesome-security).
 
 - [Awesome Zero Knowledge](#awesome-zero-knowledge)
+  - [Calendars](#calendars)
   - [Cloud Storage](#cloud-storage)
   - [Email](#email)
   - [Notes and Documents](#notes-and-documents)
   - [Password Managers](#password-managers)
   - [Other Resources](#other-resources)
-    - [Online resources](#online-resources)
   - [Other Related Awesome Lists](#Other-Related-Awesome-Lists)
   - [Contributing](#contributing)
 
 ------
+
+## Calendars
+
+- [Proton Calendar](https://proton.me/calendar) - Your calendar is a record of your life. Proton Calendar helps keep it private.
+- [Skiff Calendar](https://skiff.com/calendar) - Skiff Calendar protects your personal and professional life by keeping your schedule end-to-end encrypted.
 
 ## Cloud Storage
 
@@ -31,6 +36,7 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awes
 
 - [Disroot](https://disroot.org) - An open-source, end-to-end encrypted anonymous email service.
 - [Proton Mail](https://proton.me/mail) - An open-source, end-to-end encrypted anonymous email service.
+- [Skiff Mail](https://skiff.com/mail) - Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.
 - [Tutanota](https://tutanota.com) - Secure, green and ad-free. Email to feel good about.
 
 ## Notes and Documents
@@ -38,6 +44,7 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awes
 - [Cryptee](https://crypt.ee) - A private home for your digital belongins.
 - [Joplin](https://joplinapp.org/) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
 - [Notesnook](https://notesnook.com) - Open source zero knowledge private note taking.
+- [Skiff Pages](https://skiff.com/pages) - Take your thoughts and ideas to the next level with a private, end-to-end encrypted workspace.
 - [Standard Notes](https://standardnotes.com) - A safe place for your notes, thoughts, and life's work.
 - [Turtl](https://turtlapp.com) - The secure, collaborative notebook.
 
@@ -47,6 +54,8 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy), [awes
 - [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams.
 
 ## Other Resources
+
+TBD
 
 ## Other Related Awesome Lists
 
