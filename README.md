@@ -29,8 +29,10 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy) and [a
 - [Ente](https://ente.io) - Secure backups for photos and videos.
 - [FileN](https://filen.io/) - Zero knowledge end-to-end encrypted cloud storage, redefined.
 - [Mega](https://mega.nz) - Secure Cloud Storage and Communication, Privacy by Design
+- [NordLocker](https://nordlocker.com) - Encrypt personal and business data with NordLocker — your private file vault. Your files are protected, backed up, and always within reach. 
 - [Proton Drive](https://proton.me/drive) - Proton Drive is an end-to-end encrypted Swiss vault for your files that protects your data.
 - [Skiff Drive](https://skiff.com/drive) - Skiff Drive protects your files with end-to-end encryption, so you can share your work securely.
+- [Tresorit](https://tresorit.com) - Tresorit is the ultra-secure place in the cloud to store, sync, and share files within your organization and with external partners.
 
 ## Email
 
@@ -50,7 +52,8 @@ Inspired by [awesome-privacy](https://github.com/Lissy93/awesome-privacy) and [a
 
 ## Password Managers
 
-- [BitWarden](https://bitwarden.com) - Fully-featured, open source password manager with cloud-sync. 
+- [BitWarden](https://bitwarden.com) - Fully-featured, open source password manager with cloud-sync.
+- [NordPass](https://nordpass.com/) - Organize online life with NordPass — a secure solution for passwords, credit cards, and more.
 - [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams.
 
 ## Other Resources
