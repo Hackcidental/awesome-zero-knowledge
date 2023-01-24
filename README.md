@@ -62,6 +62,7 @@ TBD
 
 ## Other Related Awesome Lists
 
+- [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
 - [Awesome Security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. 
 - [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) - A curated list of digital security and privacy tips, with links to further resources.
 - [Awesome Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - A curated list of awesome newsletters to keep up to date on security news via e-mail.
